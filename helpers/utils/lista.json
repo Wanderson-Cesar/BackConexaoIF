@@ -1,0 +1,48 @@
+{
+  "emails": [
+    {
+      "id": 3,
+      "tipo": "aluno",
+      "email": "tecnologiaemsoftwareweb@gmail.com",
+      "link": "https://chat.whatsapp.com/",
+      "titulo": "Gestão-Comercial-2022-p1",
+      "curso_id": 2,
+      "mensagem": "ola sem bem vindo",
+      "grupo_id": {
+        "id": 2,
+        "titulo": "Gestão-Comercial-2022-p1",
+        "link": "https://chat.whatsapp.com/",
+        "mensagem": "ola sem bem vindo",
+        "periodo": {
+          "id": 1,
+          "semestrereferencia": "1"
+        },
+        "coordenador": {
+          "id": 5,
+          "nome": "Bruna",
+          "email": "bruna@gmail.com",
+          "senha": "bruna12345",
+          "telefone": "83931911",
+          "disciplina": "Metodologia",
+          "registrodeTrabalho": "31000",
+          "curso": {
+            "id": 2,
+            "nome": "Gestão Comercial",
+            "instituicao": {
+              "id": 1,
+              "nome": "IFPB - CAMPUS GUARABIRA",
+              "endereco": {
+                "id": 1,
+                "rua": "RUA PROFESSOR CARLOS LEONARDO ARCOVERDE SN RODOVIA, PB-057",
+                "bairro": "",
+                "cep": "58200-000",
+                "numero": "S/N",
+                "complemento": ""
+              }
+            }
+          }
+        }
+      }
+    }
+  ]
+}
